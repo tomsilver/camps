@@ -1,6 +1,7 @@
 This repository houses the code for "CAMPs: Learning Context-Specific Abstractions for Efficient Planning in Factored MDPs" by Rohan Chitnis\*, Tom Silver\*, Beomjoon Kim, Leslie Pack Kaelbling, and Tomás Lozano-Pérez. Conference on Robot Learning (CoRL) 2020.
 
 **Paper**: https://arxiv.org/abs/2007.13202
+
 **Video**: https://www.youtube.com/watch?v=wTXt6djcAd4
 
 Installation of dependencies:
